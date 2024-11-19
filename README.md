@@ -7,7 +7,7 @@
 <p>
   
 
-  Hi 👋, I`am Alef! A passionate web and mobile development student from Brazil.
+  Oii 👋, Eu sou Kelve! Um apaixonado estudante do curso de informatica do ifma , campus açailandia.
 
   <!--
   - 🌱 I am currently studying systems analysis and development at Cruzeiro do Sul<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
