@@ -12,19 +12,20 @@
   <!--
   - 🌱 I am currently studying systems analysis and development at Cruzeiro do Sul<img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
   -->
-  - 🔭 I am looking for my first job opportunity. My dream is to one day be able to work in mobile and desktop development.
- 
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia poder trabalhar com desenvolvimento mobile e desktop.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 18 years old, currently living in Brazil. I have relative fluency in English, - basic knowledge of Spanish, Hebrew and Arabic -, and have experience in JavaScript, TypeScript, Java, NodeJs, MySQL, ReactJs, NextJs and Tailwind CSS.
+  - 💬 Tenho 18 anos e atualmente moro no Brasil. e possuo experiência em JavaScript, Html, Java,Css.
 
 
-  - ⚡ I like reading, whether it's a good book, as well as watching movies and playing games! I believe that our personal interests contribute to the emergence of new ideas, solving problems, and making the world better.
-</details>
+  - ⚡ Gosto de assistir filmes e jogar! Acredito que os nossos interesses pessoais contribuem para o surgimento de novas ideias, para a resolução de problemas e para a melhoria do mundo.
+</detalhes>
+
+
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alefalvesaraujo/)
