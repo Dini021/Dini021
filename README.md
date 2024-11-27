@@ -17,7 +17,7 @@
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Tenho 18 anos e atualmente moro no Brasil. e possuo experiência em JavaScript, Html, Java,Css.
 
