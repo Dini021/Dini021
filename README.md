@@ -65,8 +65,8 @@
 </div>
   <!-- Skills: Libraries -->
 <div style="flex-basis: 48%;">
-  <h3>Libraries</h3>
-  <img align="center" alt="ReactJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  
+  
 </div>
 
 <!-- GithubStats -->
