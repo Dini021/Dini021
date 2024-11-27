@@ -48,7 +48,7 @@
 ###
 
 
-## 🔥 Skills
+## 🔥 Habilidades
 <!-- Skills: Programming Languages -->
 <div style="flex-basis: 48%;">
   <h3>Working Languages</h3>
