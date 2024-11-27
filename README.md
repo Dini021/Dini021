@@ -72,7 +72,7 @@
 <!-- GithubStats -->
 ### ⚙️ Estatísticas do GitHub
 
-![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=3alyef&show_icons=true&theme=gotham)
+
 
 <table>
   <tr>
